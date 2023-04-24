@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b>Credit Card Detection</b>
+<b>Credit Card Fraud Detection</b>
 
 </p>
 
