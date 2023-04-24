@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b>An Email spam CLassifier</b>
+<b>Credit Card Detection</b>
 
 </p>
 
